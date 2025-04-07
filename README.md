@@ -1,5 +1,7 @@
 # Gordo Lanches – Relatório de Vendas
-
+<p align="center">
+  <img src="thumb.png" alt="Thumb do projeto Gordo Lanches" width="500"/>
+</p>
 Este é um projeto simples feito no Excel para praticar:
 
 - Criação de tabelas com dados de vendas
